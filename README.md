@@ -1,2 +1,2 @@
-# gachon2026
-2026년도 가천대학교 반도체 공학과 C언어 심화 수업
+# Welcome to Semiconductor Hell!!
+* 어서와 반도체는 처음이지??
