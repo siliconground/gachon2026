@@ -1,5 +1,8 @@
-# Welcome to Semiconductor Hell!!
-* 어서와 반도체는 처음이지??
+# ❤️ Semiconductor Design Environment
+* 반도체 개발에 필요한 환경과 자동화 프로젝트
 
-## Session 1: 지옥문
-## Session 2: Orientation
+## 🎞️ Table Of Contents
+* 0_DOCS
+* 1_LINUX
+* 2_TCL
+* 3_MAKEFILE
